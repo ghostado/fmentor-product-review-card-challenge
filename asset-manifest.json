@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fmentor-product-review-card-challenge/static/css/main.31b89dfe.css",
+    "main.js": "/fmentor-product-review-card-challenge/static/js/main.fe78b6ab.js",
+    "static/media/image-product-desktop.jpg": "/fmentor-product-review-card-challenge/static/media/image-product-desktop.c96d43af17111fe78e96.jpg",
+    "static/media/image-product-mobile.jpg": "/fmentor-product-review-card-challenge/static/media/image-product-mobile.113818bc746dc8e64ffb.jpg",
+    "index.html": "/fmentor-product-review-card-challenge/index.html",
+    "static/media/icon-cart.svg": "/fmentor-product-review-card-challenge/static/media/icon-cart.9606ad84b7565a3f523f9429396f8066.svg",
+    "main.31b89dfe.css.map": "/fmentor-product-review-card-challenge/static/css/main.31b89dfe.css.map",
+    "main.fe78b6ab.js.map": "/fmentor-product-review-card-challenge/static/js/main.fe78b6ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31b89dfe.css",
+    "static/js/main.fe78b6ab.js"
+  ]
+}
